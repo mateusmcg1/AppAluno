@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Menção Aluno</string>
+    <string name="TextViewHeader">Calcular Média Aluno</string>
+    <string name="EditTextNota1">Digite a nota da Prova 1º Bi</string>
+    <string name="EditTextNome">Digite o nome</string>
+    <string name="EditTextTrabalho1">Digite a Nota do(s) Trabalho(s) 1º Bi</string>
+    <string name="EditTextNota2">Digite a Nota da Prova 2º Bi</string>
+    <string name="EditTextTrabalho2">Digite a Nota do(s) Trabalho(s) 2º Bi</string>
+    <string name="EditTextJornada">Digite a Nota da Jornada</string>
+    <string name="Button">Calcular</string>
+
+
+</resources>
